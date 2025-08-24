@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies (if you add any later)
+node_modules/
+venv/
+__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
